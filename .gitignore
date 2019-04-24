@@ -1,6 +1,6 @@
-public/
+public
 .idea/
 resources/
-content/
-config/
+content
+config
 static/
